@@ -1,49 +1,55 @@
 <h1>Conducting a Security Audit</h1>
 
 <h2>Description</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+Reviewed an IT manager’s scope, goals, and risk assessment for a company's cybersecurity program from a given scenario. Then, performed an internal audit to complete a controls assessment and compliance checklist to align current business practices with industry standards and best practices by 1) ensuring all listed assets were accounted for in the controls selected; 2) appropriate administrative, technical, and physical controls were selected (marked with an X); 3) the priority level for each control selected was noted, based on the need for immediate or future implementation; and 4) ensuring compliance regulations and standards that the business needs to adhere to are selected (i.e., related to conducting business in the E.U., accepting online payments, user permission policies). Afterwards, communicated the security audit results and recommendations to stakeholders by drafting a Stakeholder memorandum to demonstrate the ability to communicate in a way that supports stakeholder understanding of complex concepts.
 <br />
 
-
-<h2>Languages and Utilities Used</h2>
-
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
-
-<h2>Environments Used </h2>
-
-- <b>Windows 10</b> (21H2)
-
-<h2>Program walk-through:</h2>
+<h2>Controls Assessment Audit</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Current Assets: <br/>
+<img src="https://i.imgur.com/KQOuAY7.png" height="80%" width="80%" alt="Security Audit"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<p align="center">
+Administrative Controls: <br/>
+<img src="https://i.imgur.com/I3h7Zjl.png" height="80%" width="80%" alt="Security Audit"/>
+<img src="https://i.imgur.com/vJ43goS.png" height="80%" width="80%" alt="Security Audit"/>
+<img src="https://i.imgur.com/zJ1F6xL.png" height="80%" width="80%" alt="Security Audit"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<p align="center">
+Technical Controls: <br/>
+<img src="https://i.imgur.com/so9x6sQ.png" height="80%" width="80%" alt="Security Audit"/>
+<img src="https://i.imgur.com/ywnhK0n.png" height="80%" width="80%" alt="Security Audit"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<p align="center">
+Physical Controls: <br/>
+<img src="https://i.imgur.com/5jsiTTG.png" height="80%" width="80%" alt="Security Audit"/>
+<img src="https://i.imgur.com/ATqZSfZ.png" height="80%" width="80%" alt="Security Audit"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<h2>Compliance Checklist Audit</h2>
+<img src="https://i.imgur.com/HKXEgvZ.png" height="80%" width="80%" alt="Security Audit"/>
+<img src="https://i.imgur.com/arufYDc.png" height="80%" width="80%" alt="Security Audit"/>
+<img src="https://i.imgur.com/YyKVhrj.png" height="80%" width="80%" alt="Security Audit"/>
+<img src="https://i.imgur.com/Qgo3LWt.png" height="80%" width="80%" alt="Security Audit"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<h2>Stakeholder Memorandum:</h2>
+<br />
+<img src="https://i.imgur.com/KiqOo5V.png" height="80%" width="80%" alt="Security Audit"/>
+<img src="https://i.imgur.com/nKBaQOq.png" height="80%" width="80%" alt="Security Audit"/>
+<img src="https://i.imgur.com/oWu5G4T.png" height="80%" width="80%" alt="Security Audit"/>
+<img src="https://i.imgur.com/bHhAfLs.png" height="80%" width="80%" alt="Security Audit"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
 
 <!--
  ```diff
