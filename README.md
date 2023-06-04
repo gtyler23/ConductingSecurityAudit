@@ -15,7 +15,7 @@ Current Assets: <br/>
 <p align="center">
 Administrative Controls: <br/>
 <img src="https://i.imgur.com/I3h7Zjl.png" height="80%" width="80%" alt="Security Audit"/>
-<img src="https://i.imgur.com/vJ43goS.png" height="80%" width="80%" alt="Security Audit"/>
+<img src="https://i.imgur.com/fF9Fa5L.png" height="80%" width="80%" alt="Security Audit"/>
 <img src="https://i.imgur.com/zJ1F6xL.png" height="80%" width="80%" alt="Security Audit"/>
 <br />
 <br />
@@ -37,7 +37,7 @@ Physical Controls: <br/>
 <h2>Compliance Checklist Audit</h2>
 <img src="https://i.imgur.com/HKXEgvZ.png" height="80%" width="80%" alt="Security Audit"/>
 <img src="https://i.imgur.com/arufYDc.png" height="80%" width="80%" alt="Security Audit"/>
-<img src="https://i.imgur.com/YyKVhrj.png" height="80%" width="80%" alt="Security Audit"/>
+<img src="https://i.imgur.com/WMvY2ky.png" height="80%" width="80%" alt="Security Audit"/>
 <img src="https://i.imgur.com/Qgo3LWt.png" height="80%" width="80%" alt="Security Audit"/>
 <br />
 <br />
@@ -47,7 +47,7 @@ Physical Controls: <br/>
 <img src="https://i.imgur.com/KiqOo5V.png" height="80%" width="80%" alt="Security Audit"/>
 <img src="https://i.imgur.com/nKBaQOq.png" height="80%" width="80%" alt="Security Audit"/>
 <img src="https://i.imgur.com/oWu5G4T.png" height="80%" width="80%" alt="Security Audit"/>
-<img src="https://i.imgur.com/bHhAfLs.png" height="80%" width="80%" alt="Security Audit"/>
+<img src="https://i.imgur.com/NCGUxCT.png" height="80%" width="80%" alt="Security Audit"/>
 <br />
 <br />
 
