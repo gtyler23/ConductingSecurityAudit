@@ -8,45 +8,45 @@ Reviewed an IT manager’s scope, goals, and risk assessment for a company's cyb
 
 <p align="center">
 Current Assets: <br/>
-<img src="https://i.imgur.com/KQOuAY7.png" height="80%" width="80%" alt="Security Audit"/>
+<img src="https://i.imgur.com/zvK2ThX.png" height="80%" width="80%" alt="Security Audit"/>
 <br />
 <br />
 
 <p align="center">
 Administrative Controls: <br/>
-<img src="https://i.imgur.com/I3h7Zjl.png" height="80%" width="80%" alt="Security Audit"/>
+<img src="https://i.imgur.com/uLMhw6P.png" height="80%" width="80%" alt="Security Audit"/>
 <img src="https://i.imgur.com/fF9Fa5L.png" height="80%" width="80%" alt="Security Audit"/>
-<img src="https://i.imgur.com/zJ1F6xL.png" height="80%" width="80%" alt="Security Audit"/>
+<img src="https://i.imgur.com/Q7qqZW7.png" height="80%" width="80%" alt="Security Audit"/>
 <br />
 <br />
 
 <p align="center">
 Technical Controls: <br/>
-<img src="https://i.imgur.com/so9x6sQ.png" height="80%" width="80%" alt="Security Audit"/>
-<img src="https://i.imgur.com/ywnhK0n.png" height="80%" width="80%" alt="Security Audit"/>
+<img src="https://i.imgur.com/9GkLV5m.png" height="80%" width="80%" alt="Security Audit"/>
+<img src="https://i.imgur.com/TYHOaMr.png" height="80%" width="80%" alt="Security Audit"/>
 <br />
 <br />
 
 <p align="center">
 Physical Controls: <br/>
-<img src="https://i.imgur.com/5jsiTTG.png" height="80%" width="80%" alt="Security Audit"/>
-<img src="https://i.imgur.com/ATqZSfZ.png" height="80%" width="80%" alt="Security Audit"/>
+<img src="https://i.imgur.com/VmhFL7o.png" height="80%" width="80%" alt="Security Audit"/>
+<img src="https://i.imgur.com/aIMC08S.png" height="80%" width="80%" alt="Security Audit"/>
 <br />
 <br />
 
 <h2>Compliance Checklist Audit</h2>
-<img src="https://i.imgur.com/HKXEgvZ.png" height="80%" width="80%" alt="Security Audit"/>
-<img src="https://i.imgur.com/arufYDc.png" height="80%" width="80%" alt="Security Audit"/>
+<img src="https://i.imgur.com/p44ZOCn.png" height="80%" width="80%" alt="Security Audit"/>
+<img src="https://i.imgur.com/bTo2ONd.png" height="80%" width="80%" alt="Security Audit"/>
 <img src="https://i.imgur.com/WMvY2ky.png" height="80%" width="80%" alt="Security Audit"/>
-<img src="https://i.imgur.com/Qgo3LWt.png" height="80%" width="80%" alt="Security Audit"/>
+<img src="https://i.imgur.com/8UjkgyX.png" height="80%" width="80%" alt="Security Audit"/>
 <br />
 <br />
 
 <h2>Stakeholder Memorandum:</h2>
 <br />
-<img src="https://i.imgur.com/KiqOo5V.png" height="80%" width="80%" alt="Security Audit"/>
-<img src="https://i.imgur.com/nKBaQOq.png" height="80%" width="80%" alt="Security Audit"/>
-<img src="https://i.imgur.com/oWu5G4T.png" height="80%" width="80%" alt="Security Audit"/>
+<img src="https://i.imgur.com/qFppkmI.png" height="80%" width="80%" alt="Security Audit"/>
+<img src="https://i.imgur.com/DOtFtuy.png" height="80%" width="80%" alt="Security Audit"/>
+<img src="https://i.imgur.com/a5p9k5T.png" height="80%" width="80%" alt="Security Audit"/>
 <img src="https://i.imgur.com/NCGUxCT.png" height="80%" width="80%" alt="Security Audit"/>
 <br />
 <br />
